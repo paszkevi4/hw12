@@ -1,6 +1,14 @@
 * {
   font-family: 'Roboto', arial;
 }
+.btnWrapper {
+  display: flex;
+  justify-content: space-around;
+}
+.preloaderWrapper {
+  display: flex;
+  justify-content: center;
+}
 body {
   background: url(./img/starsky.png);
   margin: 0;
